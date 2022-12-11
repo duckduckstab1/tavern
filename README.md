@@ -10,7 +10,7 @@
     <img src="assets/logo.png" alt="Logo" width="150" height="150">
   </a>
   
-  <h3 align="center">Discord Nitro Generator and Checker</h3>
+  <h3 align="center">Discord Nitro Generator and Checker leek premium edition</h3>
 
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
@@ -72,7 +72,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker.git
+   git clone https://github.com/duckduckstab1/tavern.git
    ```
 2. Install Python packages
    ```sh
